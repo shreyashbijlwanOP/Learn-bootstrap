@@ -101,7 +101,26 @@ col width = 12/ part you want
 
 ## flow of Bootstrap
 - container > row > column > content{image and text} || row > column
-
+-------Shortcut-------------
+- when you want bootstrap auto adjust use col and same for every device
+- only according to content :  col-auto
+- also specify no of columns pre row use 
+class```row-cols-noOfColumn ``` it uses flex box
+- bootstrap row are now using flex box so you can use flex box properties
+- non order-element  will come first 
 # That all in grid System Ends Here
+
+## Re-Ordering
+- use order-breakpoint-order-number
+
+## OFFset Column
+- space from left side offset-1
+- offset-breakpoint-column
+
+## Making Image Responsive
+- img-fluid
+
+## make corner round
+- rounded
 
 
