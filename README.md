@@ -11,6 +11,7 @@
 - grid (for responsive)
 - classes (given to html element to style it)
 - Component(Pre-build html css element)
+
 - Official Document for reference  
 - documentation is known as notes
 
